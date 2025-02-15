@@ -1,4 +1,4 @@
-# MLLM-enriched Multimodal Teacher Action Quality Assessment (3MTAQA) dataset 
+# MLLM-enriched Multimodal Teacher Action Quality Assessment (3MTAQA) Dataset 
 
 ## About the dataset：
 ![image](https://github.com/aaauthors/TAQADataset/blob/main/CoVL/fig/Overview%20of%20TAQA.png)
